@@ -21,9 +21,9 @@ This project focuses on analyzing e-commerce sales data to uncover key trends, i
 📂 E-Commerce-Sales-Analysis ├── 📊 Data (Raw and Processed) ├── 📜 Notebooks (Jupyter Notebooks for analysis) ├── 📈 Reports (Visualizations and Findings) ├── 📂 Power BI Dashboards ├── 📄 README.md
 
 ## Results & Insights
-- **The month with the highest sales was [Month Name], while the lowest sales occurred in [Month Name].
-- **The [Category Name] category generated the highest revenue, whereas [Category Name] had the lowest.
-- **The [Customer Segment] segment was the most profitable.
-- **The overall sales-to-profit ratio was X%, indicating efficiency in generating revenue.
+- The month with the highest sales was [Month Name], while the lowest sales occurred in [Month Name].
+- The [Category Name] category generated the highest revenue, whereas [Category Name] had the lowest.
+- The [Customer Segment] segment was the most profitable.
+- The overall sales-to-profit ratio was X%, indicating efficiency in generating revenue.
 
   
