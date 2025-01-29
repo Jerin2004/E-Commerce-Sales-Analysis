@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis 📊
 
-![Apple Logo](apple_logo.jpeg)
+![Apple Logo](images.png)
 
 ## Overview
 This project focuses on analyzing e-commerce sales data to uncover key trends, insights, and patterns that drive business decisions. The analysis includes monthly sales trends, product category performance, customer segmentation, and profit analysis.
